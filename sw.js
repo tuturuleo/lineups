@@ -1,6 +1,6 @@
 /* Service Worker Lineup: офлайн-просмотр. Версия и список файлов подставляются при сборке. */
-const VERSION = 'f0dcf40100';
-const PRECACHE = ["./","./assets/inter-greek-wght-normal-CkhJZR-_.woff2","./assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2","./assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2","./assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2","./assets/inter-latin-wght-normal-Dx4kXJAl.woff2","./assets/inter-cyrillic-wght-normal-DqGufNeO.woff2","./assets/inter-greek-ext-wght-normal-DlzME5K_.woff2","./assets/index-hqSyef0e.css","./assets/index-CvgD9rxP.js","./manifest.webmanifest","./icon-192.png","./icon-512.png","./apple-touch-icon.png"];
+const VERSION = '1a5b804a95';
+const PRECACHE = ["./","./assets/inter-cyrillic-wght-normal-DqGufNeO.woff2","./assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2","./assets/inter-greek-wght-normal-CkhJZR-_.woff2","./assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2","./assets/inter-greek-ext-wght-normal-DlzME5K_.woff2","./assets/inter-latin-wght-normal-Dx4kXJAl.woff2","./assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2","./assets/index-BiGyPvqB.css","./assets/index-DZJXwCeR.js","./manifest.webmanifest","./icon-192.png","./icon-512.png","./apple-touch-icon.png"];
 const SHELL = `lineup-shell-${VERSION}`;
 const DATA = 'lineup-data';
 const IMAGES = 'lineup-images';
