@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T11:55:45.272Z",
+  "updatedAt": "2026-09-27T12:38:00.038Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -3516,44 +3516,11 @@
         "x": 0.34059671723980056,
         "y": 0.188911689596928
       },
-      "images": {
-        "start": {
-          "originalId": "e92d052eb65a7c72f8c8c408de901b9084074b8b287282699ac19e2a6324eaaa",
-          "thumbId": "9771aafce358af86c6fcb9c5eba5bb44fa5b47f78c9dc9956b5c23eb4e9721d7",
-          "width": 1920,
-          "height": 1080
-        },
-        "aim": {
-          "originalId": "18fd90f98332b3ba3b61c179cc28f6fa16452500459610632c7103e91969d1b9",
-          "thumbId": "e5e650a938cdaeba3443c0f52611dc2dc6cc4ebc68c9cffd1cb04fce776e55cb",
-          "width": 1920,
-          "height": 1080,
-          "edits": {
-            "annotations": [
-              {
-                "kind": "circle",
-                "id": "18cdede3-e9e1-4c9d-8622-b6f56466083a",
-                "center": {
-                  "x": 723.5271460014674,
-                  "y": 996.0253102378819
-                },
-                "radius": 41.21144152435046,
-                "color": "#ff3b30",
-                "width": 5
-              }
-            ]
-          }
-        },
-        "result": {
-          "originalId": "cec119003e752a015dfc9c46b1d8d2e0c448b795973f076aa75ae2a7ea26ff60",
-          "thumbId": "de3034bf1ecd1e6def1c6d40e2f89394f5bf74e88a666bde4073df9b1bdf6eff",
-          "width": 1920,
-          "height": 1080
-        }
-      },
+      "images": {},
       "id": "8e903935-d493-4407-a951-e51a7da4d346",
       "createdAt": "2026-09-27T11:55:45.272Z",
-      "updatedAt": "2026-09-27T11:55:45.272Z"
+      "updatedAt": "2026-09-27T12:38:00.038Z",
+      "deletedAt": "2026-09-27T12:38:00.038Z"
     }
   ]
 }
