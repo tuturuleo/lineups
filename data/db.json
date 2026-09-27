@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T12:46:39.265Z",
+  "updatedAt": "2026-09-27T18:54:32.009Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -3545,7 +3545,7 @@
         },
         "aim": {
           "originalId": "da5e0f2e106dcf13aa86faa40d8658809d353282aca2a154ecb2581d5d0c02bc",
-          "thumbId": "010b873d6735447f9f4397795d0c80dead717a5d768a65c69c5b4df282af3920",
+          "thumbId": "68f3ece564985769628aa4c8a12c98b064570fe8b98d6180bede9a43f9e02d56",
           "width": 1920,
           "height": 1080,
           "edits": {
@@ -3562,7 +3562,8 @@
                 "width": 5
               }
             ]
-          }
+          },
+          "thumbVersion": 2
         },
         "result": {
           "originalId": "7ed1606bd3272ff5ce3c66b66f179734e074c41cf800ce61ad6aa31361fc464f",
@@ -3573,7 +3574,7 @@
       },
       "id": "b6913a14-d8b4-42f8-8fc2-bef510998e2e",
       "createdAt": "2026-09-27T12:40:42.035Z",
-      "updatedAt": "2026-09-27T12:43:33.961Z"
+      "updatedAt": "2026-09-27T18:54:31.926Z"
     },
     {
       "mapId": "219fe903-bf6c-4f61-bf5a-a549fe42229e",
@@ -3598,7 +3599,7 @@
         },
         "aim": {
           "originalId": "780a34d79d53dce08d299336d7daeb5e5318803ec2411a94e831609de6428862",
-          "thumbId": "3392fb2fdb65dbeffffa4687b655773f249ca98035ebeec543c1b03f16dde67b",
+          "thumbId": "50db6801f06091e3dc2f4646b0c5cedfb32ba0dc3a210c62914e3a7f86dbcf85",
           "width": 1920,
           "height": 1080,
           "edits": {
@@ -3615,7 +3616,8 @@
                 "width": 5
               }
             ]
-          }
+          },
+          "thumbVersion": 2
         },
         "result": {
           "originalId": "52e0c79c35e8dc179337e2df3b7bb42872cbba570fbe9eec7410df98781bd6bf",
@@ -3626,7 +3628,7 @@
       },
       "id": "41df197a-fac3-4d22-92c6-ab4d21c7f4e5",
       "createdAt": "2026-09-27T12:42:57.166Z",
-      "updatedAt": "2026-09-27T12:42:57.166Z"
+      "updatedAt": "2026-09-27T18:54:31.962Z"
     },
     {
       "mapId": "219fe903-bf6c-4f61-bf5a-a549fe42229e",
@@ -3645,7 +3647,7 @@
       "images": {
         "aim": {
           "originalId": "37adc4e8b93913f213a907049b69bb1a862ba4d0076529c147cbde6a92314837",
-          "thumbId": "3ba3ff28b4a4ceb8ecfbc493eaefa9fb898f053b68d2b0762c8d3cdf39924c58",
+          "thumbId": "f83914193e0fb778724f373aa3c013ab88cdbcea054e51a269679edb66a4a053",
           "width": 1920,
           "height": 1080,
           "edits": {
@@ -3662,13 +3664,14 @@
                 "width": 5
               }
             ]
-          }
+          },
+          "thumbVersion": 2
         }
       },
       "note": "Важно прицелится ниже",
       "id": "16b3d3a2-e529-44d2-bb5a-c25178a8ed2e",
       "createdAt": "2026-09-27T12:45:24.049Z",
-      "updatedAt": "2026-09-27T12:45:24.049Z"
+      "updatedAt": "2026-09-27T18:54:31.985Z"
     },
     {
       "mapId": "219fe903-bf6c-4f61-bf5a-a549fe42229e",
@@ -3687,7 +3690,7 @@
       "images": {
         "aim": {
           "originalId": "006aa4e360153b5feb79046f608580184c091a259ce0294cc6cebc7de9ab4cd1",
-          "thumbId": "eb8e87a52d6f905c45ad7414127d489dfdfd7a05afde761fafcac77a00e65056",
+          "thumbId": "5859d41410b123d19ddc0d0e1d2252723f86754ba66b1dda6a30826c124256dc",
           "width": 1920,
           "height": 1080,
           "edits": {
@@ -3704,12 +3707,13 @@
                 "width": 5
               }
             ]
-          }
+          },
+          "thumbVersion": 2
         }
       },
       "id": "a0aa6166-537f-4b8e-a685-5691198e92f6",
       "createdAt": "2026-09-27T12:46:39.265Z",
-      "updatedAt": "2026-09-27T12:46:39.265Z"
+      "updatedAt": "2026-09-27T18:54:32.009Z"
     }
   ]
 }
