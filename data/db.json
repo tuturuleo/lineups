@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T12:38:00.038Z",
+  "updatedAt": "2026-09-27T12:40:42.035Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -3521,6 +3521,44 @@
       "createdAt": "2026-09-27T11:55:45.272Z",
       "updatedAt": "2026-09-27T12:38:00.038Z",
       "deletedAt": "2026-09-27T12:38:00.038Z"
+    },
+    {
+      "mapId": "219fe903-bf6c-4f61-bf5a-a549fe42229e",
+      "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.568886544031821,
+        "y": 0.29825110637862695
+      },
+      "target": {
+        "x": 0.33945027820487816,
+        "y": 0.18914609311841404
+      },
+      "images": {
+        "start": {
+          "originalId": "e78d4a0e258fecc5714262b9724f5f04c86b0a15329a5e99c1c102537682279e",
+          "thumbId": "2fac05e2abd5cea15effd10f0335ccd2d580610a9e5363e4405039f2d0ee09c3",
+          "width": 1920,
+          "height": 1080
+        },
+        "aim": {
+          "originalId": "da5e0f2e106dcf13aa86faa40d8658809d353282aca2a154ecb2581d5d0c02bc",
+          "thumbId": "75420581424c71ae4c75300a0440b301097b282b7785cb2c536a828be7fa3915",
+          "width": 1920,
+          "height": 1080
+        },
+        "result": {
+          "originalId": "7ed1606bd3272ff5ce3c66b66f179734e074c41cf800ce61ad6aa31361fc464f",
+          "thumbId": "94ae817fe8731d966ce8a9173c6dfeb3865d8dae8d26bb7947c63749d9c22a8e",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "id": "b6913a14-d8b4-42f8-8fc2-bef510998e2e",
+      "createdAt": "2026-09-27T12:40:42.035Z",
+      "updatedAt": "2026-09-27T12:40:42.035Z"
     }
   ]
 }
