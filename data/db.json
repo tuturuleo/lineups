@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T21:56:53.939Z",
+  "updatedAt": "2026-09-29T19:53:29.867Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -804,11 +804,11 @@
       "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
       "type": "callout",
       "name": "B Main",
-      "x": 0.4050381250000001,
-      "y": 0.712098991,
+      "x": 0.40225436847196216,
+      "y": 0.6977162489384707,
       "id": "727df7f2-cdda-47b4-bece-c5eba64a4661",
       "createdAt": "2026-09-27T11:42:07.569Z",
-      "updatedAt": "2026-09-27T11:42:07.569Z"
+      "updatedAt": "2026-09-29T19:53:29.867Z"
     },
     {
       "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
@@ -3499,6 +3499,66 @@
       "id": "7fe37410-c418-418f-8324-4ebcbbea7da3",
       "createdAt": "2026-09-27T11:42:08.319Z",
       "updatedAt": "2026-09-27T11:42:08.319Z"
+    },
+    {
+      "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
+      "type": "spike",
+      "name": "A Default",
+      "x": 0.3401066770642725,
+      "y": 0.18902189388267085,
+      "id": "072b3d27-b141-435d-990b-aa568f5ee85d",
+      "createdAt": "2026-09-29T19:48:12.414Z",
+      "updatedAt": "2026-09-29T19:48:12.414Z"
+    },
+    {
+      "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
+      "type": "spike",
+      "name": "A Dice",
+      "x": 0.3176541984512383,
+      "y": 0.12762839767515552,
+      "id": "4466a17d-d889-4614-ba0f-d873463b608d",
+      "createdAt": "2026-09-29T19:49:03.097Z",
+      "updatedAt": "2026-09-29T19:49:03.097Z"
+    },
+    {
+      "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
+      "type": "spike",
+      "name": "A Open",
+      "x": 0.345719796717531,
+      "y": 0.09324803979894696,
+      "id": "3778c254-999d-42d1-8722-71d5b7263567",
+      "createdAt": "2026-09-29T19:49:46.931Z",
+      "updatedAt": "2026-09-29T19:49:46.931Z"
+    },
+    {
+      "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
+      "type": "spike",
+      "name": "B Default",
+      "x": 0.28376623273094137,
+      "y": 0.7951051813569509,
+      "id": "54feeebf-50f6-4645-8dd0-ed4c7b2f2a12",
+      "createdAt": "2026-09-29T19:50:49.888Z",
+      "updatedAt": "2026-09-29T19:50:49.888Z"
+    },
+    {
+      "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
+      "type": "spike",
+      "name": "B Corner",
+      "x": 0.334801769078303,
+      "y": 0.8489244742323504,
+      "id": "c0a78cad-250b-481f-9a05-1d96e114d68a",
+      "createdAt": "2026-09-29T19:51:37.138Z",
+      "updatedAt": "2026-09-29T19:51:37.138Z"
+    },
+    {
+      "mapVersionId": "9c10dcd8-9305-4d5c-bc1d-5952620fa8da",
+      "type": "spike",
+      "name": "B Open",
+      "x": 0.20860480647391783,
+      "y": 0.7338625377401169,
+      "id": "89b863f8-4675-442c-a038-8608f49c35aa",
+      "createdAt": "2026-09-29T19:52:23.962Z",
+      "updatedAt": "2026-09-29T19:52:23.962Z"
     }
   ],
   "lineups": [
