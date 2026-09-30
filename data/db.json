@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-30T17:39:13.357Z",
+  "updatedAt": "2026-09-30T17:48:11.058Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -4690,6 +4690,330 @@
       "id": "41dc9e41-e02c-4a4a-9029-d142766a371b",
       "createdAt": "2026-09-30T17:39:13.357Z",
       "updatedAt": "2026-09-30T17:39:13.357Z"
+    },
+    {
+      "mapId": "d6a75f5e-577d-44ec-82a5-5c9ffc49575f",
+      "mapVersionId": "a4a2f89b-992b-46a1-971f-db1b4ae00f3f",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.31392427804417644,
+        "y": 0.48607422438562137
+      },
+      "target": {
+        "x": 0.1436511704125244,
+        "y": 0.466587928689356
+      },
+      "images": {
+        "start": {
+          "originalId": "1c66553b04b7651bf6e1e5f147a1957ee5624f0abe023f1c3f678dc9b36b0d72",
+          "thumbId": "e103c098aac508f24010ae52c450aea18afa99e6e6dc7e47304e79416e962f24",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "3ae572b2acfc990a5308c46c734166343d338c68bee0dede043b1d5c23c7ab8d",
+          "thumbId": "781c3e2d2ba3a364912b8a9d79a7e7bf1074945a5cf61fa1bbec7d0c46774765",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "0e6ce08d-8d47-4daa-b2bf-4108b69ddb5b",
+                "center": {
+                  "x": 1280,
+                  "y": 720
+                },
+                "radius": 51,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "472d0a294b1977c0987dd660a13c491c0a32075ee3374fc1fbef0b8dc9af52c5",
+          "thumbId": "070b4a54140ab7fcb00028489990902b9dfb2444041df4a2b444c580b89aae99",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "b4761c9d-b314-4904-a452-bf926649135f",
+      "createdAt": "2026-09-30T17:41:27.581Z",
+      "updatedAt": "2026-09-30T17:41:27.581Z"
+    },
+    {
+      "mapId": "d6a75f5e-577d-44ec-82a5-5c9ffc49575f",
+      "mapVersionId": "a4a2f89b-992b-46a1-971f-db1b4ae00f3f",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.41139780317463087,
+        "y": 0.6397302623863658
+      },
+      "target": {
+        "x": 0.1423188797965495,
+        "y": 0.4699333928752949
+      },
+      "images": {
+        "start": {
+          "originalId": "3c0d4c853a5200b582294f9a4711c451e9bf9d18b7316bc86eb7ae4d239510a6",
+          "thumbId": "e4b5ac1ac72c854713c1ea953b936db80609d9ae2db39a4dce824ea82ab9ef85",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "5204eb50c35b536bd1923431565e6ac94983ac3a59cd1662b95bedbac7206424",
+          "thumbId": "394653143359d036ea6e2e155dac35a6fbee3cd9cf1ab015d0ebc3e10ff18192",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "c8d5da17-dcf9-48cf-ace3-8e64b675825c",
+                "center": {
+                  "x": 1203.5770232484147,
+                  "y": 1139.576634710701
+                },
+                "radius": 63.05433902757345,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "388a3c8974d29b7b99b65675ff4b5a0baa95d711fd3556cb0826979edf24f27b",
+          "thumbId": "1c1d2f4f17271a7b8d6c946829f2701c33f303e9711f723867c707150be2d710",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "8a46cd88-4259-4473-a541-b5bccaaeaf4b",
+      "createdAt": "2026-09-30T17:43:04.013Z",
+      "updatedAt": "2026-09-30T17:43:04.013Z"
+    },
+    {
+      "mapId": "d6a75f5e-577d-44ec-82a5-5c9ffc49575f",
+      "mapVersionId": "a4a2f89b-992b-46a1-971f-db1b4ae00f3f",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.33998052242066074,
+        "y": 0.7810237081044767
+      },
+      "target": {
+        "x": 0.14096512863701732,
+        "y": 0.47156277407092934
+      },
+      "images": {
+        "aim": {
+          "originalId": "ecb32dd01f1aec259bc983e84cf8dce33f98cac33077fac7f4ac83cd0705f1d5",
+          "thumbId": "c6408a3e770f9bfe2228e027ee16d943114ac0451b4b642af5fae235e77f5c9a",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "1d421f2e-a75e-4fdb-84d8-419680622092",
+                "center": {
+                  "x": 1201.8880351548896,
+                  "y": 1264.1702516063779
+                },
+                "radius": 62.14885191016679,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "16b7085616fae0db4eb1e72f514c3e5f5a3e1f8c9043f63edc7fd86627942ce6",
+          "thumbId": "03facde8388ae24976bdee67987571dc938b6334f04b5744e26dae50cbffb14d",
+          "width": 2560,
+          "height": 1440
+        },
+        "start": {
+          "originalId": "763f10795e1a9c6772fe1d4001f5eb41fc441cbbbd273fc07dd53c8afbf45d5a",
+          "thumbId": "7a743837fe95fd1fbbe31632baadfd8caa49dd4304f20ff64b67020f949258c1",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "59dcded1-ada5-41be-9c78-3371a64cf3b2",
+      "createdAt": "2026-09-30T17:44:22.499Z",
+      "updatedAt": "2026-09-30T17:44:22.499Z"
+    },
+    {
+      "mapId": "d6a75f5e-577d-44ec-82a5-5c9ffc49575f",
+      "mapVersionId": "a4a2f89b-992b-46a1-971f-db1b4ae00f3f",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.3410922767648631,
+        "y": 0.78242437440822
+      },
+      "target": {
+        "x": 0.09418517601715296,
+        "y": 0.4350599728660984
+      },
+      "images": {
+        "start": {
+          "originalId": "e2b8ed0db6391932120770b04f89f2588a77f1e8bf6c875d74067b997e38d169",
+          "thumbId": "af6dba3b4d4af52c721fce260196d70130a75fd011e6bf34249fc895bd3e5565",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "5cc3bc7790984efd692ae252129ba1b5420d73179e3490517a015b06539bf811",
+          "thumbId": "3e5b72e0ed8495c5103301c8d98c230809a453bbf09cda68f219d45a206a89d8",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "467e0d8e-b2a7-44b6-bc41-1638444bfae8",
+                "center": {
+                  "x": 1201.6689167731474,
+                  "y": 1307.5350543350546
+                },
+                "radius": 92.09324584986095,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "4eb4e5524e0dbdf6c6eb4f7d964b8483474f950b2818b78d0b30d2d315418277",
+          "thumbId": "9e8ffa6a2256f63d59f81a67573fb7efd086472c7e836389d0d5eec3d41a691c",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "58339bdd-a144-4e99-9cf9-6398c4fb75f1",
+      "createdAt": "2026-09-30T17:45:35.724Z",
+      "updatedAt": "2026-09-30T17:45:35.724Z"
+    },
+    {
+      "mapId": "d6a75f5e-577d-44ec-82a5-5c9ffc49575f",
+      "mapVersionId": "a4a2f89b-992b-46a1-971f-db1b4ae00f3f",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.4122918718313858,
+        "y": 0.6404470966375867
+      },
+      "target": {
+        "x": 0.17678489507510345,
+        "y": 0.43239559644615594
+      },
+      "images": {
+        "start": {
+          "originalId": "dd35b952c4e09cc6bb63b9cde7ec5ec49d378dadb888880b1cf2d8e7ef72f436",
+          "thumbId": "a717242abbd3b73d9d63c0a0ec813b670c2d43e24d6009b0e35b63e415d9a9f4",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "122de9389199de79ba1a4e82f680c8b169a137f7d57e6e8c9b84dc9f4e206882",
+          "thumbId": "656cec4879baa54a42ffe3db7634c3b8b23a9da800f7a86258c57ab9916c5a38",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "6ad0b204-d446-43aa-9f0d-54958bb6b4b3",
+                "center": {
+                  "x": 715.5992739013634,
+                  "y": 1404.942102524034
+                },
+                "radius": 68.08674927510887,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "a1f37e4fa496d9c4ff8b9c66ef39965ada7874791b7745d506e6cf69e9052830",
+          "thumbId": "63733831c23b5087763e2a7439037b20c465357af4064487598c480e2930bfc8",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "f49ab0e7-1fed-4378-a9d2-94ec7b761378",
+      "createdAt": "2026-09-30T17:46:58.102Z",
+      "updatedAt": "2026-09-30T17:46:58.102Z"
+    },
+    {
+      "mapId": "d6a75f5e-577d-44ec-82a5-5c9ffc49575f",
+      "mapVersionId": "a4a2f89b-992b-46a1-971f-db1b4ae00f3f",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.4034544556703501,
+        "y": 0.25653234198515257
+      },
+      "target": {
+        "x": 0.17429884582607014,
+        "y": 0.43404725101945396
+      },
+      "images": {
+        "start": {
+          "originalId": "5f5994c71355411714be3cbe5fe6abe381ffedd5fd9e1527d5d3113ff5433b89",
+          "thumbId": "d0b003659a05c58d31d5ec13e2a524ff874617ed062584a48929f762e78b92d9",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "089a5809092fb949067b5a64b8d80c501ee812a117763451155d7efe19c49e11",
+          "thumbId": "df1c4c662eaec6b39ce0f640fbefc30c165923814dc2c5be84de2b28694e485d",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "eb9b4a1a-f452-4410-9a40-065a72f95e98",
+                "center": {
+                  "x": 1202.2905554185281,
+                  "y": 1265.8383863895076
+                },
+                "radius": 90.06298816989943,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "eef57f416dfa194e26fe4427fb5cdadd3b9102ca61c1da879cd3db6ecdc8b331",
+          "thumbId": "4a63fe0b89d61d1ab063c20613573540a0513a30f5cdc2c58a6c76428cda27b4",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "9669c3ef-d803-4c6a-9563-da6403f654cb",
+      "createdAt": "2026-09-30T17:48:11.057Z",
+      "updatedAt": "2026-09-30T17:48:11.057Z"
     }
   ]
 }
