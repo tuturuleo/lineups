@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-01T23:14:02.162Z",
+  "updatedAt": "2026-10-01T23:17:51.502Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -5565,6 +5565,115 @@
       "id": "c85fd6f4-11b2-420b-9925-b9dd17a8830c",
       "createdAt": "2026-10-01T23:14:02.162Z",
       "updatedAt": "2026-10-01T23:14:02.162Z"
+    },
+    {
+      "mapId": "fcc7a9f5-9ed9-4a69-8fcc-4a03c769db49",
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.8009115566668438,
+        "y": 0.4899982821240746
+      },
+      "target": {
+        "x": 0.41959388782782553,
+        "y": 0.4405493966068383
+      },
+      "images": {
+        "start": {
+          "originalId": "b99eed4e27c23b9233d8991a92496d6bd72016787c0fb56fa6c4000f12c55105",
+          "thumbId": "626d47cd8dc7435ad7771cd1820f9d82b8acea9d1ce275482e0868b8cc3b1f77",
+          "width": 2560,
+          "height": 1440,
+          "thumbVersion": 2
+        },
+        "aim": {
+          "originalId": "d5c44ba21314d3f7bd5b1bae39bb66b4e2277206118b98881b6b0e98f107b961",
+          "thumbId": "3a0dc00a2bd2846deadd9ec146adf9caf57962c3cee1ddd0a9ca8afd1fa2c1fa",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "cacc83fc-57d4-47a3-aaa7-98f9d23826e5",
+                "center": {
+                  "x": 964.087600310801,
+                  "y": 1331.0336217044166
+                },
+                "radius": 63.40135473822298,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "ca1ff07f43ece4ead2c19f6cd0e9bc21d3a63a432c9f7cb384c0cf76637d53d3",
+          "thumbId": "f70efd11625b8134cdc16f8dfc5c9ad6bab790ceb195dca239e847b79c4b5926",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "975679bc-ba8d-4e26-96e3-57e60bbde72d",
+      "createdAt": "2026-10-01T23:16:22.873Z",
+      "updatedAt": "2026-10-01T23:16:22.873Z"
+    },
+    {
+      "mapId": "fcc7a9f5-9ed9-4a69-8fcc-4a03c769db49",
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.5313436279099975,
+        "y": 0.7144577008585326
+      },
+      "target": {
+        "x": 0.4954372031280592,
+        "y": 0.4445543505313788
+      },
+      "images": {
+        "start": {
+          "originalId": "5da0b45f43b0827a4490839d5a3fee54e2108fab1b891e117bced78761b35778",
+          "thumbId": "07b8446e0053a04fdf8bfc9454d41b730b0b12b8d4695ab34a3ea3852dcb1998",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "60723709c1de3db1394f58d36e1dca835273b995b5c6f9693884006c5b689e79",
+          "thumbId": "6017d3d3659e300640df12a7bb78c243c0e9732965db62fad337ea3debdcf5d6",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "feb2abd6-deea-4611-9131-41332e92503a",
+                "center": {
+                  "x": 1161.7766166275535,
+                  "y": 1261.3991620488594
+                },
+                "radius": 74.26526956383404,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "850082683e9a5752f7e7acec31831b4d97a7857bf609b13e0793213b8545099d",
+          "thumbId": "e914c133649142ee8121ea3b49a10aa4acd7056f5f78bfec4bcd006e8438ab72",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "92004282-c494-430e-b67a-1b03e6c9c8f3",
+      "createdAt": "2026-10-01T23:17:51.502Z",
+      "updatedAt": "2026-10-01T23:17:51.502Z"
     }
   ]
 }
