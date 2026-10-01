@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-01T22:42:38.688Z",
+  "updatedAt": "2026-10-01T22:48:55.728Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -5068,6 +5068,71 @@
       "id": "1b16981b-ce21-4ec2-a67a-f6dd278b882a",
       "createdAt": "2026-10-01T22:42:38.688Z",
       "updatedAt": "2026-10-01T22:42:38.688Z"
+    },
+    {
+      "mapId": "fcc7a9f5-9ed9-4a69-8fcc-4a03c769db49",
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.8064921108255478,
+        "y": 0.6627291112693273
+      },
+      "target": {
+        "x": 0.8571796776069047,
+        "y": 0.37461031061740396
+      },
+      "images": {
+        "start": {
+          "originalId": "e8cf03f6f62f5caf712bc20d7ec3bba1c4123f868f9aa0fcf19eb0055848e94c",
+          "thumbId": "d9e6ca6b228a4cb4a91bcbfd2feb3df2d041cb6ee7283a5503b98e36fd4da90c",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "4d187477e16b6fd9f09c536b0ca248bed4ff231c5f8c457c49d983e40379ca96",
+          "thumbId": "24eed6dec62991b1175ab66ee55092530fd219d7af1cb1b08a25488495c5e291",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "56107ce0-e333-45e7-b2aa-328d4e75cce8",
+                "center": {
+                  "x": 1382.0487469227173,
+                  "y": 1337.5315034554635
+                },
+                "radius": 61.796991188444764,
+                "color": "#ff3b30",
+                "width": 6
+              },
+              {
+                "kind": "text",
+                "id": "dc4ccb02-9721-4768-924c-194e903da000",
+                "at": {
+                  "x": 1010.7808226599093,
+                  "y": 1356.0791812975513
+                },
+                "text": "низ",
+                "color": "#ff3b30",
+                "size": 46
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "acd280dfd68d534f3c1112e8aac3d662fcbbd4c9ae57aa4aee2525e17c4f00f4",
+          "thumbId": "f75359615401044761411bd5969ee6282342ce9e0b7e2403f5522c3277991692",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "bdfc3853-b4f2-4886-a964-ef5c1c4d328a",
+      "createdAt": "2026-10-01T22:48:55.728Z",
+      "updatedAt": "2026-10-01T22:48:55.728Z"
     }
   ]
 }
