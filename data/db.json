@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-01T22:48:55.728Z",
+  "updatedAt": "2026-10-01T22:53:04.609Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -5133,6 +5133,60 @@
       "id": "bdfc3853-b4f2-4886-a964-ef5c1c4d328a",
       "createdAt": "2026-10-01T22:48:55.728Z",
       "updatedAt": "2026-10-01T22:48:55.728Z"
+    },
+    {
+      "mapId": "fcc7a9f5-9ed9-4a69-8fcc-4a03c769db49",
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.4997745015743142,
+        "y": 0.4527614760973141
+      },
+      "target": {
+        "x": 0.8883337753500689,
+        "y": 0.37945846676670947
+      },
+      "images": {
+        "start": {
+          "originalId": "121d6343af84f915303b496e8884332d456476f9155de432e21259a20ed26156",
+          "thumbId": "27e7e09e2d2dc855213d6b5bda0bab45bdb6a823d9f7e0e860f06910a8f392df",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "2c5607e2d180906bc54cf3502ad6edfb91ee5824f9158b1c9c14ed03eb058501",
+          "thumbId": "5fbf50fd525ff9cbf759ffca6ae87f8421442fbb581c71029d9035e10c6092d7",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "b5843e6d-5d25-453f-940f-a7787a288349",
+                "center": {
+                  "x": 1212.738585759604,
+                  "y": 1182.264139034562
+                },
+                "radius": 41.303630613879434,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "98386a489ad7c7e9d0f4540433b9b0eea3b18346db8bbdba4252aa17324bcec1",
+          "thumbId": "2325d1e9317b0b45875ea434059aa47ad5e85a0b52badd064b7adfc0bb8c3e3b",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "126fe463-10ad-4ece-b88d-b342f1adb98e",
+      "createdAt": "2026-10-01T22:53:04.609Z",
+      "updatedAt": "2026-10-01T22:53:04.609Z"
     }
   ]
 }
