@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-09-30T17:48:11.058Z",
+  "updatedAt": "2026-10-01T22:42:38.688Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -5014,6 +5014,60 @@
       "id": "9669c3ef-d803-4c6a-9563-da6403f654cb",
       "createdAt": "2026-09-30T17:48:11.057Z",
       "updatedAt": "2026-09-30T17:48:11.057Z"
+    },
+    {
+      "mapId": "fcc7a9f5-9ed9-4a69-8fcc-4a03c769db49",
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "side": "attack",
+      "ability": "molly",
+      "stance": "stand",
+      "start": {
+        "x": 0.6629185766434859,
+        "y": 0.4755371624263986
+      },
+      "target": {
+        "x": 0.8585884195562953,
+        "y": 0.37346608973167533
+      },
+      "images": {
+        "start": {
+          "originalId": "006222c1410300b12c80bbb94ce8258842e06fef4cbdfd84d4de7b77e0c54276",
+          "thumbId": "0cf922daceb02281309b54e31f3aae222f65a7c3a0fb02f4d9088c555d2fc243",
+          "width": 2560,
+          "height": 1440
+        },
+        "aim": {
+          "originalId": "38575e863996241fee2e8b362b8494f9bb80010347bbffad488ecd7ee2f4906f",
+          "thumbId": "c93c067d5f7aba1c1b45a21dc2d9291703459a75e2169abdfead51a174172988",
+          "width": 2560,
+          "height": 1440,
+          "edits": {
+            "annotations": [
+              {
+                "kind": "circle",
+                "id": "d3a15a91-ab5f-4306-87d7-65659f534506",
+                "center": {
+                  "x": 1280,
+                  "y": 720
+                },
+                "radius": 51,
+                "color": "#ff3b30",
+                "width": 6
+              }
+            ]
+          },
+          "thumbVersion": 2
+        },
+        "result": {
+          "originalId": "be8c76c123f78c07a6034e1dd942f8aae9dcbc0ea1da30a0162bcb86d7b36567",
+          "thumbId": "98b067c3e6b47e8b523638df122da9a92dc1444208b3f362539fb2334b8a2ef0",
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "id": "1b16981b-ce21-4ec2-a67a-f6dd278b882a",
+      "createdAt": "2026-10-01T22:42:38.688Z",
+      "updatedAt": "2026-10-01T22:42:38.688Z"
     }
   ]
 }
