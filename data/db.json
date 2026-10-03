@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-03T13:54:13.888Z",
+  "updatedAt": "2026-10-03T13:56:27.159Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -2354,11 +2354,11 @@
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
       "type": "callout",
       "name": "A Tree",
-      "x": 0.854915248,
-      "y": 0.4749862,
+      "x": 0.9078370693697455,
+      "y": 0.44252748289322275,
       "id": "87057dae-578d-4b68-aa0c-3388062cc605",
       "createdAt": "2026-09-27T11:42:08.040Z",
-      "updatedAt": "2026-09-27T11:42:08.040Z"
+      "updatedAt": "2026-10-03T13:56:27.159Z"
     },
     {
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
@@ -2374,11 +2374,11 @@
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
       "type": "callout",
       "name": "A Main",
-      "x": 0.754291864,
-      "y": 0.5369942416,
+      "x": 0.7479412454356307,
+      "y": 0.4452630845591075,
       "id": "7f74ef6e-9824-41df-a0c6-3da1c128408b",
       "createdAt": "2026-09-27T11:42:08.040Z",
-      "updatedAt": "2026-09-27T11:42:08.040Z"
+      "updatedAt": "2026-10-03T13:56:20.320Z"
     },
     {
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
@@ -2524,11 +2524,11 @@
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
       "type": "callout",
       "name": "C Main",
-      "x": 0.228121336,
-      "y": 0.5353409488,
+      "x": 0.20554135888224184,
+      "y": 0.5438084402191594,
       "id": "df199e48-23a2-46cb-9ac5-bfd754753bd7",
       "createdAt": "2026-09-27T11:42:08.040Z",
-      "updatedAt": "2026-09-27T11:42:08.040Z"
+      "updatedAt": "2026-10-03T13:56:15.135Z"
     },
     {
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
