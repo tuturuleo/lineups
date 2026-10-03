@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-02T00:23:40.773Z",
+  "updatedAt": "2026-10-03T13:14:48.077Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -6257,9 +6257,9 @@
     {
       "mapId": "fcc7a9f5-9ed9-4a69-8fcc-4a03c769db49",
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
-      "side": "attack",
+      "side": "defense",
       "ability": "molly",
-      "stance": "stand",
+      "stance": "crouch",
       "start": {
         "x": 0.5466238614932476,
         "y": 0.4415618886822521
@@ -6307,7 +6307,7 @@
       },
       "id": "077484d5-3f89-408d-b1a7-af492b4ebc9c",
       "createdAt": "2026-10-02T00:14:08.457Z",
-      "updatedAt": "2026-10-02T00:14:08.457Z"
+      "updatedAt": "2026-10-03T13:14:48.077Z"
     },
     {
       "mapId": "fcc7a9f5-9ed9-4a69-8fcc-4a03c769db49",
