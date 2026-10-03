@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-03T13:14:48.077Z",
+  "updatedAt": "2026-10-03T13:54:13.888Z",
   "maps": [
     {
       "id": "6f3dbf5f-69fb-4839-b878-a71d212a5496",
@@ -2454,11 +2454,11 @@
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
       "type": "site",
       "name": "B Site",
-      "x": 0.50289818824,
-      "y": 0.45925364560000004,
+      "x": 0.47308879541892745,
+      "y": 0.454010904138862,
       "id": "446028d1-ff77-4254-8d9e-c937908b50f8",
       "createdAt": "2026-09-27T11:42:08.040Z",
-      "updatedAt": "2026-09-27T11:42:08.040Z"
+      "updatedAt": "2026-10-03T13:50:47.167Z"
     },
     {
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
@@ -2544,11 +2544,11 @@
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
       "type": "site",
       "name": "C Site",
-      "x": 0.14764592799999998,
-      "y": 0.43703222080000004,
+      "x": 0.1315082089968817,
+      "y": 0.4693076588062367,
       "id": "7a35d3a8-1a6a-4902-a8d2-487676e33645",
       "createdAt": "2026-09-27T11:42:08.040Z",
-      "updatedAt": "2026-09-27T11:42:08.040Z"
+      "updatedAt": "2026-10-03T13:50:54.813Z"
     },
     {
       "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
@@ -3639,6 +3639,96 @@
       "id": "a803dda2-d89e-4b9c-8cc7-783c11e0f227",
       "createdAt": "2026-09-29T20:45:25.913Z",
       "updatedAt": "2026-09-29T20:45:25.913Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "A Default",
+      "x": 0.8747446964353884,
+      "y": 0.3753475556912282,
+      "id": "e013c31a-5496-4f84-ad66-27c4361bd7ab",
+      "createdAt": "2026-10-03T13:48:41.746Z",
+      "updatedAt": "2026-10-03T13:48:41.746Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "A Open",
+      "x": 0.9251460543805266,
+      "y": 0.37640863691112586,
+      "id": "383912b7-612b-47ad-911e-6c7b51ddbebd",
+      "createdAt": "2026-10-03T13:49:10.490Z",
+      "updatedAt": "2026-10-03T13:49:10.490Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "A Backsite",
+      "x": 0.8559105047822052,
+      "y": 0.3209671431714739,
+      "id": "123dc3c1-9218-4c3e-b3fc-2f5198a084b9",
+      "createdAt": "2026-10-03T13:49:39.961Z",
+      "updatedAt": "2026-10-03T13:49:39.961Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "B Open",
+      "x": 0.41934612311225966,
+      "y": 0.4408209059456393,
+      "id": "1dc35784-0043-4da6-8204-e604c6c95d47",
+      "createdAt": "2026-10-03T13:51:38.858Z",
+      "updatedAt": "2026-10-03T13:51:38.858Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "B Pit",
+      "x": 0.49865847966632804,
+      "y": 0.45119990413669986,
+      "id": "b744a2de-b2d4-4e83-a418-c42f31303f3e",
+      "createdAt": "2026-10-03T13:51:48.372Z",
+      "updatedAt": "2026-10-03T13:52:12.768Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "C Default",
+      "x": 0.1550515258430095,
+      "y": 0.49829118367074043,
+      "id": "93da67e2-6deb-444d-874b-4898f3daca9a",
+      "createdAt": "2026-10-03T13:52:37.567Z",
+      "updatedAt": "2026-10-03T13:53:12.642Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "C Open",
+      "x": 0.11652966416411673,
+      "y": 0.49759917417950283,
+      "id": "c4d2070f-2ce3-46c5-a31c-aeda12399beb",
+      "createdAt": "2026-10-03T13:53:10.770Z",
+      "updatedAt": "2026-10-03T13:53:10.770Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "C Safe",
+      "x": 0.05909287639139636,
+      "y": 0.4680734358866988,
+      "id": "32193225-6861-4fb0-98b7-d89246658cf9",
+      "createdAt": "2026-10-03T13:53:34.440Z",
+      "updatedAt": "2026-10-03T13:53:34.440Z"
+    },
+    {
+      "mapVersionId": "fcb86526-af0e-47ac-9d0d-0f0c98542b1d",
+      "type": "spike",
+      "name": "C Alternative",
+      "x": 0.11537631501205406,
+      "y": 0.45077319860575893,
+      "id": "872a5e7b-f0b6-45bd-8d9d-b3b54b4b5b0f",
+      "createdAt": "2026-10-03T13:54:13.888Z",
+      "updatedAt": "2026-10-03T13:54:13.888Z"
     }
   ],
   "lineups": [
